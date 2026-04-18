@@ -7,6 +7,6 @@ const setlistData = [
     { title: "5. 夏花火", id: "KKYMYE1gyNI" },
     { title: "6. はじまり", id: "8TB_eiJH47U" },
     { title: "7. それが、愛でしょう", id: "TMoOdbjcjGU" },
-    { title: "8. Alone", id: "KKYMYE1gyNI" },
+    { title: "8. Alone", id: "JjWwfUbOP0w" },
     { title: "9. この場所が好きで", id: "tMR3hb4iR34" }
 ];
